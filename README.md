@@ -19,4 +19,4 @@ Repositório para um projeto Fullstack. Este aqui abriga a parte Backend
 ## Documentação dos endpoints
 
 Os detalhes dos endpoints estão na doocumentação do Postman: 
-('https://documenter.getpostman.com/view/15064055/Tzm2Hxmv')
+('https://documenter.getpostman.com/view/15064055/Tzm2Hxmv') 
